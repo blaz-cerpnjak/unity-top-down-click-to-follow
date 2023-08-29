@@ -38,6 +38,7 @@ Setting it up is pretty simple:
 <br>
 Generated NavMesh:
 <br>
+<br>
 <p align="center">
     <img src="Screenshots/generated_navmesh.png?raw=true" alt="FSM Example">
 </p>
@@ -184,6 +185,9 @@ public class PlayerController : MonoBehaviour
 
 }
 ```
+
+<br>
+<hr>
 
 <a name="camera-setup"></a>
 ### Camera Setup to Follow Player
