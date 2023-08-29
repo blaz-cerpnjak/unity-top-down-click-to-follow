@@ -10,7 +10,6 @@
 
 ## Table of Contents
 
-- [About](#about)
 - [NavMesh Setup](#navmesh-setup)
 - [Player Setup](#player-setup)
     - [Movement Animations](#movement-animations)
