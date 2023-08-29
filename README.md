@@ -31,7 +31,7 @@ Setting it up is pretty simple:
 
 <br>
 <p align="center">
-    <img src="Screenshots/navmesh_surface_component.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/navmesh_surface_component.png?raw=true">
 </p>
 <br/>
 
@@ -40,7 +40,7 @@ Generated NavMesh:
 <br>
 <br>
 <p align="center">
-    <img src="Screenshots/generated_navmesh.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/generated_navmesh.png?raw=true">
 </p>
 <br/>
 
@@ -52,7 +52,7 @@ In this example I used an asset from Synty Studios called "POLYGON - Explorer Ki
 
 <br>
 <p align="center">
-    <img src="Screenshots/player_model.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/player_model.png?raw=true">
 </p>
 <br/>
 
@@ -68,7 +68,7 @@ We want 3 types of animations for our player: **idle, walking and runnning**. Yo
 
 <br>
 <p align="center">
-    <img src="Screenshots/player_animator_base_layer.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/player_animator_base_layer.png?raw=true">
 </p>
 <br>
 
@@ -77,7 +77,7 @@ We want 3 types of animations for our player: **idle, walking and runnning**. Yo
 
 <br>
 <p align="center">
-    <img src="Screenshots/blend_tree.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/blend_tree.png?raw=true">
 </p>
 <br>
 
@@ -85,7 +85,7 @@ We want 3 types of animations for our player: **idle, walking and runnning**. Yo
 
 <br>
 <p align="center">
-    <img src="Screenshots/tresholds.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/tresholds.png?raw=true">
 </p>
 <br>
 
@@ -100,7 +100,7 @@ We already generated a NavMesh. But for our player to be able to move on it, we 
 
 <br>
 <p align="center">
-    <img src="Screenshots/player_gameobject.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/player_gameobject.png?raw=true">
 </p>
 <br>
 
@@ -201,6 +201,6 @@ Now we need to setup the camera to follow the player. We will use the [Cinemachi
 
 <br>
 <p align="center">
-    <img src="Screenshots/virtual_camera.png?raw=true" alt="FSM Example">
+    <img src="Screenshots/virtual_camera.png?raw=true">
 </p>
 <br/>
