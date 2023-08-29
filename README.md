@@ -31,7 +31,7 @@ Setting it up is pretty simple:
 
 <br>
 <p align="center">
-    <img src="Screenshots/navmesh_surface_component?raw=true" alt="FSM Example">
+    <img src="Screenshots/navmesh_surface_component.png?raw=true" alt="FSM Example">
 </p>
 <br/>
 
@@ -39,7 +39,7 @@ Setting it up is pretty simple:
 Generated NavMesh:
 <br>
 <p align="center">
-    <img src="Screenshots/generated_navmesh?raw=true" alt="FSM Example">
+    <img src="Screenshots/generated_navmesh.png?raw=true" alt="FSM Example">
 </p>
 <br/>
 
