@@ -1,10 +1,10 @@
 <h1 align="center">Unity Top-Down Click To Follow (Touch Supported)</h1>
 
-<br />
-
-<p align="center">In this example ...</p>
-
 <br>
+<p align="center">
+    <img src="Screenshots/example_gif.gif?raw=true">
+</p>
+<br/>
 
 <hr>
 
